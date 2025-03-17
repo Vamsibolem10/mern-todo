@@ -123,14 +123,13 @@ volumes:
 5. Open a Pull Request.
 
 ---
-# To-do
-![1](https://github.com/user-attachments/assets/2b49f368-f96e-4926-96f6-6933fdc21d6d)
-# To-do list added
-![2](https://github.com/user-attachments/assets/58d54604-ef89-46d4-9390-4d26d92b9993)
-# To-do list checklist box
-![3](https://github.com/user-attachments/assets/59f39bf5-ab1b-41e6-bb8d-9f466a50b44f)
-# To-do list Delete
-![4](https://github.com/user-attachments/assets/45b7d933-c36e-4b0f-b428-12a81e3e3ad2)
 # Weather Checker
-![5](https://github.com/user-attachments/assets/704b0d11-8ed3-44d9-9c57-9a3605a59f2d)
-
+![6ecf3e29-d66e-4517-a7ba-5b3d7ec11362](https://github.com/user-attachments/assets/0576311f-40a4-4c6d-8cdb-1fb910c848f4)
+# Add To-do Task
+![43c0bd69-734d-475a-b430-cbe8c3d7998a](https://github.com/user-attachments/assets/714d80a5-4644-4f1c-8e2e-22ce4649bbda)
+# Check for Completed
+![26ef9907-78f0-4f2f-850b-24854643418b](https://github.com/user-attachments/assets/fba89a49-1221-41ed-b824-e8585afb2a6b)
+# Active Status
+![cb765915-866f-4474-adcd-c2f789252d92](https://github.com/user-attachments/assets/459c7b41-ca7f-4386-90cb-1d88d2e68759)
+# Task Completed Checkbox
+![43c0bd69-734d-475a-b430-cbe8c3d7998a](https://github.com/user-attachments/assets/108e012f-eca0-41c0-8618-c5f18141c6b7)
